@@ -1,0 +1,10 @@
+{
+    "get_todos_success": {
+        "endpoint": "/api/todos",
+        "response": [
+            {"id": 1, "todo": "Learn Mirage JS", "isDone": true},
+            {"id": 2, "todo": "Learn React Query", "isDone": false},
+            {"id": 3, "todo": "Learn React", "isDone": false}
+        ]
+    }
+}
